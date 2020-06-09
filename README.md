@@ -22,4 +22,4 @@ This application is made using React. The application has a functionality of inc
 
 ##### Tests (Not applicable)
 
-* UML ![UML-LAB-21](./asset/image/Untitled drawing.jpg)
+* UML ![UML-LAB-21](./asset/image/lab-21-uml.jpg)
