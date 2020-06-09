@@ -5,7 +5,7 @@
 * Links and Resources
 [App link](https://codesandbox.io/s/lab-21-eyob-tamir-jbskg?file=/src/App.js) 
 
-* Applications
+### Applications
 
 This application is made using React. The application has a functionality of increasing and decreasing a number.
 
